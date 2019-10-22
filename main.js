@@ -89,3 +89,5 @@ species.forEach(function(s) {
    
     secondArea.setAttribute('class', 'secondArea');
     firstArea.setAttribute('class', 'firstArea');
+
+   
