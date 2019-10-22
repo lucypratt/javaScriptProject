@@ -1,5 +1,5 @@
-import { planets } from './assets/planets.js';
-import { species } from './assets/species.js';
+import { planets } from '/assets/planets.js';
+import { species } from '/assets/species.js';
 
 console.log(planets);
 console.log(species);
